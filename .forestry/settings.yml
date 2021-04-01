@@ -15,11 +15,10 @@ sections:
 - type: document
   path: _config.yml
   label: Configuration
-  read_only: false
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
