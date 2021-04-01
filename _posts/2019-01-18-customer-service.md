@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekyll
+title: Apa itu Jekyll
 author: jane
 categories:
 - Jekyll
